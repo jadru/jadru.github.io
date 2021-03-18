@@ -13,45 +13,19 @@ project_entries:
     url: "/"
     desc: ㅁㄴㅇㄹㅁㄴㅇㄹ
 
-  - title: 준비중
-    url: "/"
-    desc: ㅁㄴㅇㄹㅁㄴㅇㄹ
-
-  - title: 준비중
-    url: "/"
-    desc: ㅁㄴㅇㄹㅁㄴㅇㄹ
-
-  - title: 준비중
-    url: "/"
-    desc: ㅁㄴㅇㄹㅁㄴㅇㄹ
-    highlight: WIP
-
-  - title: 준비중
-    url: "/"
-    desc: ㅁㄴㅇㄹㅁㄴㅇㄹ
-    highlight: WIP
-
-  - title: 준비중
-    url: "/"
-    desc: ㅁㄴㅇㄹㅁㄴㅇㄹ
-
 old_project_entries:
-  - title: 고민중
-    url: "/"
-    desc: ㅁㄴㅇㄹㅁㄴㅇㄹ
-    highlight: NEW
 
-  - title: 고민중
+  - title: AnyLink
     url: "/"
-    desc: ㅁㄴㅇㄹㅁㄴㅇㄹ
+    desc: 앱 드로어에서 바로 웹사이트로 열리는 안드로이드 유틸리티 애플리케이션
 
-  - title: 고민중
+  - title: Comesdown
     url: "/"
-    desc: ㅁㄴㅇㄹㅁㄴㅇㄹ
+    desc: 화면 위에 눈이 내리는 안드로이드 애플리케이션
 
-  - title: 고민중
+  - title: include website
     url: "/"
-    desc: ㅁㄴㅇㄹㅁㄴㅇㄹ
+    desc: ASP.NET 과제
 
 footer_entries:
   - title: instagram
