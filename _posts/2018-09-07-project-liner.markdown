@@ -3,7 +3,6 @@ title:  "project Liner를 소개합니다"
 date:   2018-09-23 17:00:00
 description: 복잡한 세상 속 단순함 추구하기
 comments : true
-category : works
 ---
 
 # project Liner
