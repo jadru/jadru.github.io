@@ -19,15 +19,14 @@ ul.horizontal-list {
 
 .card {
   padding: 1em;
-  border: 1px var(--text) solid;
-  width: 11em;
-  height: 11em;
+  border: 1px var(--headings) solid;
+  width: 10em;
+  height: 10em;
   text-align: center;
   font-size: 1em;
   align-items: center;
-  background-color: var(--bg-secondary);
-  margin-bottom: 0.8em;
-  border-radius: 0.8em;
+  margin-bottom: 0.2em;
+  border-radius: 0.2em;
 
   .header {
     color: var(--links);

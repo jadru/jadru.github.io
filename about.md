@@ -3,14 +3,12 @@ layout: post
 title: About me
 ---
 
-### About me :
-
 컴퓨터 공학을 학부로 전공하는 대학생. 부산을 기반으로 활동하고 있다.
 
 ### I can do :
 
 - 하 : Java and Android, CSS, Photoshop, Final Cut Pro
-- 중 : -
+- 중 : 
 - 상 : Web surf
 
 ### Interest :
