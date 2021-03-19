@@ -1,1 +1,1 @@
-This blog is Jektll-based and moonwoalk theme supported
+Personal blog based on jekyll
