@@ -2,7 +2,7 @@ title: jadru blog
 author: jadru
 url: https://jadru.github.io
 description: > # description of the site (multiple lines allowed)
-  make world better
+  Hope to make world better
 
 permalink: /:slug.html
 
@@ -13,8 +13,8 @@ remote_theme: abhinavs/moonwalk
 
 theme_config:
   appearance: "auto" # can be "light", "dark" or "auto"
-  back_home_text: "home.." # customize text for homepage link in post layout
-  date_format: "%Y-%m-%d" # customize how date is formatted
+  back_home_text: "홈.." # customize text for homepage link in post layout
+  date_format: "%Y년 %m월 %d일" # customize how date is formatted
   show_description: true # show blog description
   show_navbar: true # show horizontal navbar
   show_footer: true # show footer links in home page,add in _data/home.yml

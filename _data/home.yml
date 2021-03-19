@@ -1,35 +1,33 @@
 navbar_entries:
-  - title: about
+  - title: 정보
     url: about
 
-  - title: blog
+  - title: 블로그
     url: blog
 
-  - title: website
-    url: https://jadru.github.io
-
 project_entries:
-  - title: 준비중
-    url: "/"
-    desc: ㅁㄴㅇㄹㅁㄴㅇㄹ
+
+  - title: AnyLink
+    url: "https://play.google.com/store/apps/details?id=com.jadru.anylink"
+    desc: 앱 드로어에서 바로 웹사이트로 열리는 안드로이드 애플리케이션. 2016년 8월 22일 업데이트
+
+  - title: Snow / Comesdown
+    url: "https://play.google.com/store/apps/details?id=com.jadru.comesdown"
+    desc: 화면 위에(최상위 스크린) 눈이 내리는 안드로이드 애플리케이션. 2014년 12월 8일 업데이트
+
+  - title: AfterScreenOff
+    url: "https://github.com/jadru/AfterScreenOff"
+    desc: 같은 화면 오프 시 검정 배경에 시계를 24시간 표시하는 안드로이드 애플리케아션. 2014년 8월 8일 업데이트
 
 old_project_entries:
 
-  - title: AnyLink
-    url: "/"
-    desc: 앱 드로어에서 바로 웹사이트로 열리는 안드로이드 유틸리티 애플리케이션
-
-  - title: Comesdown
-    url: "/"
-    desc: 화면 위에 눈이 내리는 안드로이드 애플리케이션
-
   - title: include website
-    url: "/"
-    desc: ASP.NET 과제
+    url: "https://github.com/jadru/Assignment_ASP_Include"
+    desc: ASP.NET 과제, 코딩 언어 교육과 수준 테스트를 제공하는 웹사이트. 2018년 12월 4일 업데이트
 
 footer_entries:
   - title: instagram
-    url: https://www.abhinav.co
+    url: https://www.instagram.com/young_gunii/
 
   - title: github
     url: https://github.com/jadru
@@ -65,5 +63,3 @@ misc_entries:
 
           - title: it is easy to use, see _data/home.yml to see how to configure it.
             url: false
-
-

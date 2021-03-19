@@ -3,15 +3,21 @@ layout: post
 title: About me
 ---
 
-### About me
+### About me :
 
-컴퓨터 공학을 학부로 전공하는 일개 대학생. 관심이 아주 여러 분야다.
+컴퓨터 공학을 학부로 전공하는 대학생. 부산을 기반으로 활동하고 있다.
 
-### Interest
+### I can do :
 
-관심사는 전공인 컴퓨터부터 인문학이나 철학, 디자인, 경영, 경제 등. 세상의 새로운 소식들을 접하여 알리기 좋아한다. **프로그래밍**은 쥐약만큼 한다. 
+- 하 : Java and Android, CSS, Photoshop, Final Cut Pro
+- 중 : -
+- 상 : Web surf
 
-### Social
+### Interest :
+
+관심사는 전공인 기술 분야부터 인문학이나 철학, 디자인, 경영, 경제, 사진 촬영, 영상 편집 등 다양하다. 세상의 새로운 소식들을 접하여 알리기 좋아한다. 
+
+### Social :
 
 - [github.com/jadru](https://github.com/jadru){:target="_blank"}
 - [instagram.com/young_gunii](https://instagram.com/young_gunii){:target="_blank"}

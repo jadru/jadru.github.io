@@ -3,6 +3,7 @@ title:  "블로그 재시작"
 date:   2018-08-12 23:00:00
 description: 글 못쓰는 대학생의 희망찬 포부
 comments : true
+layout : post
 ---
 
 새로운 블로그의 시작
