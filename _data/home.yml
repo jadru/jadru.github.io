@@ -7,23 +7,35 @@ navbar_entries:
 
 project_entries:
 
+  - title: 학생교육문화회관 2020 사제동행 아트쇼 에필로그
+    url: "https://www.youtube.com/watch?v=4dw4GAs7gfA"
+    desc: 사제동행 아트쇼 에필로그 영상 촬영. 2020년
+
+  - title: 부경대학교 미디어 스토리텔링 프로그램
+    url: "https://www.youtube.com/watch?v=8sntA3pAiKY"
+    desc: 진로역량강화 프로그램의 보조 강사. 2018년
+
+  - title: 부산국가지질공원 홍보영상
+    url: "https://www.youtube.com/watch?v=X92rRT0aui8"
+    desc: 부산시 국가지질공원 홍보 영상 보조 작가. 2016년
+
   - title: AnyLink
     url: "https://play.google.com/store/apps/details?id=com.jadru.anylink"
-    desc: 앱 드로어에서 바로 웹사이트로 열리는 안드로이드 애플리케이션. 2016년 8월 22일 업데이트
+    desc: 앱 드로어에서 바로 웹사이트로 열리는 안드로이드 애플리케이션 개발. 2016년
 
   - title: Snow / Comesdown
     url: "https://play.google.com/store/apps/details?id=com.jadru.comesdown"
-    desc: 화면 위에(최상위 스크린) 눈이 내리는 안드로이드 애플리케이션. 2014년 12월 8일 업데이트
+    desc: 화면 위에(최상위 스크린) 눈이 내리는 안드로이드 애플리케이션 개발. 2016년
 
   - title: AfterScreenOff
     url: "https://github.com/jadru/AfterScreenOff"
-    desc: 같은 화면 오프 시 검정 배경에 시계를 24시간 표시하는 안드로이드 애플리케아션. 2014년 8월 8일 업데이트
+    desc: 같은 화면 오프 시 검정 배경에 시계를 24시간 표시하는 안드로이드 애플리케이션 개발. 2016년
 
 old_project_entries:
 
   - title: include website
     url: "https://github.com/jadru/Assignment_ASP_Include"
-    desc: ASP.NET 과제, 코딩 언어 교육과 수준 테스트를 제공하는 웹사이트. 2018년 12월 4일 업데이트
+    desc: 코딩 언어 교육과 수준 테스트를 제공하는 웹사이트 프로토타입. 2018년
 
 footer_entries:
   - title: instagram
