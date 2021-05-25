@@ -1,8 +1,8 @@
 navbar_entries:
-  - title: 정보
+  - title: info
     url: about
 
-  - title: 블로그
+  - title: blog
     url: blog
 
 project_entries:
@@ -17,7 +17,7 @@ project_entries:
 
   - title: 부산국가지질공원 홍보영상
     url: "https://www.youtube.com/watch?v=X92rRT0aui8"
-    desc: 부산시 국가지질공원 홍보 영상 보조 작가. 2016년
+    desc: 부산시 국가지질공원 홍보 영상 보조. 2016년
 
   - title: AnyLink
     url: "https://play.google.com/store/apps/details?id=com.jadru.anylink"
