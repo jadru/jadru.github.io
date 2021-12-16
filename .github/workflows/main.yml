@@ -1,15 +1,31 @@
-name: Gatsby Publish
+name: gatsby deploy
 
 on:
   push:
-    branches:
-      - develop
+    branches: [main]
 
 jobs:
-  build:
+  deploy:
+    name: deploy
     runs-on: ubuntu-latest
+
     steps:
-      - uses: actions/checkout@v1
-      - uses: enriikke/gatsby-gh-pages-action@v2
-        with:
-          access-token: ${{ secrets.ACCESS_TOKEN }}
+      - name: checkout code
+        uses: actions/checkout@v2
+
+      - name: packages install
+        run: yarn install
+
+      - name: gatsby build
+        run: yarn build
+        env:
+          # API_KEY 에는 자신이 secret을 생성할 때 설정한 이름으로 넣어야 한다
+          GH_API_KEY: ${{ secrets.API_KEY }}
+
+      - name: deploy
+        uses: maxheld83/ghpages@v0.2.1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          # API_KEY 에는 자신이 secret을 생성할 때 설정한 이름으로 넣어야 한다
+          GH_PAT: ${{ secrets.API_KEY }}
+          BUILD_DIR: 'public/'
