@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-blog-template-js",
+    "path": "/new-blog-jadru/",
+    "result": {"data":{"cur":{"id":"00321983-7e50-5733-8579-b78a12ed26dd","html":"<p>Hello! I am Younggun Park studying computer engineering at Inje Univ.  welcome to my blog. I wish to enjoy my word and get information for your development improvement.</p>","excerpt":"Hello! I am Younggun Park studying computer engineering at Inje Univ.  welcome to my blog. I wish to enjoy my word and get information for your development improvement.","frontmatter":{"date":"December 20, 2021","title":"New blog","categories":"general featured","author":"Younggun","emoji":"🤗"},"fields":{"slug":"/new-blog-jadru/"}},"next":null,"prev":null,"site":{"siteMetadata":{"siteUrl":"https://jadru.github.io","comments":{"utterances":{"repo":"jadru/jadru.github.io"}}}}},"pageContext":{"slug":"/new-blog-jadru/","nextSlug":"","prevSlug":""}},
+    "staticQueryHashes": ["1073350324","1956554647","2938748437"]}
