@@ -1,5 +1,0 @@
-{
-    "componentChunkName": "component---src-templates-category-template-js",
-    "path": "/posts/featured",
-    "result": {"pageContext":{"currentCategory":"featured","categories":["All","일반","featured"],"edges":[{"node":{"id":"00321983-7e50-5733-8579-b78a12ed26dd","excerpt":"안녕하세요 컴퓨터 공학을 전공하는 대학생 영건입니다.\n소프트웨어를 공부하고 지식을 공유하고자 블로그를 개설하였습니다.\n여러가지 공부한 것들을 적고자합니다.","fields":{"slug":"/new-blog-jadru/"},"frontmatter":{"categories":"일반 featured","title":"New blog","date":"December 20, 2021"}},"next":null,"previous":null}]}},
-    "staticQueryHashes": ["1073350324","1956554647","2938748437"]}
