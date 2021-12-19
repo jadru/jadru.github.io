@@ -1,5 +1,0 @@
-{
-    "componentChunkName": "component---src-templates-category-template-js",
-    "path": "/posts/general",
-    "result": {"pageContext":{"currentCategory":"general","categories":["All","general","featured"],"edges":[{"node":{"id":"00321983-7e50-5733-8579-b78a12ed26dd","excerpt":"Hello! I am Younggun Park studying computer engineering at Inje Univ.  welcome to my blog. I wish to enjoy my word and get information for your development improvement.","fields":{"slug":"/new-blog-jadru/"},"frontmatter":{"categories":"general featured","title":"New blog","date":"December 20, 2021"}},"next":null,"previous":null}]}},
-    "staticQueryHashes": ["1073350324","1956554647","2938748437"]}
