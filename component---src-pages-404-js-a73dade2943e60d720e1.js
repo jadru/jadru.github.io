@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkzoomkoding_com=self.webpackChunkzoomkoding_com||[]).push([[883],{6810:function(e,t,n){n.r(t);var o=n(7294),u=n(9081),l=n(5150);t.default=function(){return o.createElement(u.Z,null,o.createElement(l.Z,{title:"404: Not found"}),o.createElement("h1",null,"404: 페이지를 찾을 수 없습니다."),o.createElement("p",null,"You just hit a route that doesn't exist.. the sadness."))}}}]);
+//# sourceMappingURL=component---src-pages-404-js-a73dade2943e60d720e1.js.map
