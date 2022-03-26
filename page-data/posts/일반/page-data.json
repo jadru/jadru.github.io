@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-category-template-js",
     "path": "/posts/일반",
-    "result": {"pageContext":{"currentCategory":"일반","categories":["All","아키텍처","코틀린","일반"],"edges":[{"node":{"id":"3201b80b-ef26-5eb3-b9c6-ec9ef586f9c6","excerpt":"안녕하세요 컴퓨터 공학을 전공하는 대학생 영건입니다.\n소프트웨어를 공부하고 지식을 공유하고자 블로그를 개설하였습니다.\n여러가지 공부한 것들을 적고자합니다.","fields":{"slug":"/new-blog-jadru/"},"frontmatter":{"categories":"일반","title":"새로운 블로그","date":"December 20, 2021"}},"next":null,"previous":{"fields":{"slug":"/clean-code-00/"}}}]}},
+    "result": {"pageContext":{"currentCategory":"일반","categories":["All","frontend","아키텍처","코틀린","일반"],"edges":[{"node":{"id":"7f95adc1-81f5-5c96-9f88-bf172a058c8b","excerpt":"안녕하세요 컴퓨터 공학을 전공하는 대학생 영건입니다.\n소프트웨어를 공부하고 지식을 공유하고자 블로그를 개설하였습니다.\n여러가지 공부한 것들을 적고자합니다.","fields":{"slug":"/new-blog-jadru/"},"frontmatter":{"categories":"일반","title":"새로운 블로그","date":"December 20, 2021"}},"next":null,"previous":{"fields":{"slug":"/clean-code-00/"}}}]}},
     "staticQueryHashes": ["1073350324","1956554647","2938748437"]}
