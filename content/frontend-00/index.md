@@ -1,10 +1,10 @@
 ---
 emoji: 🤗
-title: "StoryBoard가 무엇인가?"
+title: "StoryBoard가 무엇인가?"
 date: '2022-03-26 00:00:00'
 author: 영건
 tags: 블로그 blog
-categories: 프론트엔드
+categories: frontend
 ---
 
 ## 스토리보드
@@ -37,7 +37,7 @@ categories: 프론트엔드
 
 ### 와이어프레임 `= 골격`
 
-![Untitled](photos/Untitled%201.png)
+![Untitled](photos/Untitled1.png)
 
 화면 단위의 레이아웃 설계 작업. 서비스의 간략한 흐름을 공유하기 위함.
 
@@ -51,11 +51,11 @@ categories: 프론트엔드
 
 ### 목업
 
-![Untitled](photos/Untitled%202.png)
+![Untitled](photos/Untitled2.png)
 
 실물과 흡사한 정적인 형태의 모형
 
-![Untitled](photos/Untitled%203.png)
+![Untitled](photos/Untitled3.png)
 
 실제 서비스와 흡사한 모형을 만듬. 와이어프레임이나 스토리보드에 인터렉션을 적용함으로 실제 구현된 것 처럼 시뮬레이션. 최종 제품을 미들 피델리티에서 하이 피델리티 사이의 품질로 재현한 것으로, 유저 인터페이스의 상호 작용을 시뮬레이션한다.
 
